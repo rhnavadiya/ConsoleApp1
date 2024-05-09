@@ -34,7 +34,7 @@ namespace ConsoleApp10
 
             Console.WriteLine("factorial vlaue of enter number is: " + value);
 
-            ----------------------comandline argument--------------------------
+            //----------------------comandline argument--------------------------
 
             for (int i = 0; i < args.Length; i++)
             {
